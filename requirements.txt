@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+databases[sqlite]
+sqlalchemy
+pydantic
+Werkzeug
+Six
+python-dotenv
+PyJWT
